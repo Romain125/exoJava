@@ -1,3 +1,5 @@
+package exostring;
+
 public class MainString {
 
     public static void main(String[] args) {
