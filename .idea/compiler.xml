@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="exoEpita" target="1.5" />
+      <module name="exoEpita" target="7" />
     </bytecodeTargetLevel>
   </component>
 </project>
