@@ -56,6 +56,17 @@ public class MainWordCount {
             }
         }
         System.out.println(motsLesPlusPresents);
+
+        int intVar = 0;
+        double doubleVar = 10.0;
+        float f1 = 70f;
+        float f2 = 80f;
+        int i = (byte) (f1+f2);
+        System.out.println(i);
+
+
     }
+
+    public static final double PI = 3.14159265359;
 
 }
