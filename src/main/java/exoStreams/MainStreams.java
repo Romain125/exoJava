@@ -80,6 +80,13 @@ public class MainStreams {
         randomStream.limit(1000).forEach(string -> System.out.println(string));
     }
 
+
+    /*
+    Exercice4 : Prendre en entrée un tableau d’entier (+/-) et faire
+    A) la somme de tous les nombres
+    B) la moyenne des nombres positifs uniquement,
+
+     */
     private static void exo4() {
 
         //Un peu de zèle pour initialiser un tableau de 100 éléments aléatoires
